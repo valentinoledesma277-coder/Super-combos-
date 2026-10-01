@@ -1,0 +1,8 @@
+{
+  "name": "Super Combos | Fresco en tu Casa",
+  "description": "Verdulería, frutería, carnes, pollería, fiambrería, combos y ofertas con envío a domicilio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
